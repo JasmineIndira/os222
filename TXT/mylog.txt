@@ -16,4 +16,4 @@ ZCZC W01 180 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 30  L03 GitHub related
 ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01 15 L01 Scele related
-ZCZC W00 120 L11 Assignment #01
+ZCZC W01 120 L11 Assignment #01
