@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 [HOME](https://jasmineindira.github.io/os222/) | [LOG](TXT/mylog.txt) | [LINKS](https://jasmineindira.github.io/os222/LINKS/) | [GitHub](https://github.com/jasmineindira/os222)
-##### By : ~ michaelsinanta ~
+##### By : Jasmine Indira Wibowo
 # LINKS 📍
 
 ## Week 01
