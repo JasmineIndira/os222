@@ -14,3 +14,7 @@ permalink: LINKS/
  
 3. [About Debian](https://www.debian.org/intro/about)<br>
     This video makes me understand about debian.
+
+## Week 02
+
+1. 
