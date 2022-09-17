@@ -1,7 +1,8 @@
 ---
 permalink: LINKS/
 ---
-
+[HOME](https://jasmineindira.github.io/os222/) | [LOG](TXT/mylog.txt) | [LINKS]([https://jasmineindira.github.io/os222/LINKS/]) | [GitHub](https://github.com/jasmineindira/os222)
+##### By : ~ michaelsinanta ~
 # LINKS 📍
 
 ## Week 01
@@ -17,4 +18,9 @@ permalink: LINKS/
 
 ## Week 02
 
-1. 
+1. Learning about C(https://microchipdeveloper.com/tls2101:start)<br>
+    This website allows you to know everything about C programming language from the basic
+    
+2. Cyber Security(https://geekflare.com/understanding-cybersecurity/)<br>
+    This website makes me understand why we should know about cyber security, and since it was made for beginners it was easier for me to understand.
+    
