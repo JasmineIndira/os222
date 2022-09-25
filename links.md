@@ -24,3 +24,12 @@ permalink: LINKS/
 2. [Cyber Security](https://geekflare.com/understanding-cybersecurity/)<br>
     This website makes me understand why we should know about cyber security, and since it was made for beginners it was easier for me to understand.
     
+## Week 03
+
+1. [Linux File System](https://www.linux.com/training-tutorials/linux-filesystem-explained/)<br>
+    This website explains linux filesystems by definition. It helps me understand better about the filesystems in linux.
+    
+2. [Mounting and Unmounting File Systems](https://docs.oracle.com/cd/E19455-01/805-7228/6j6q7ueup/index.html)<br>
+    This website gives explanations about what is mounnting and do we need it.
+    
+    
