@@ -1,18 +1,5 @@
-#!/bin/bash
-# Copyright (C) 2020-2022 Cicak Bin Kadal
-# This free script is distributed in the hope that it will be 
-# useful, but WITHOUT ANY WARRANTY; without even the implied 
-# warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-# REV02: Wed 14 Sep 2022 08:00
-# REV01: Mon 12 Sep 2022 17:00
-# START: Mon 28 Sep 2020 21:00
-
-# ATTN:
-# You new to set "REC2" with your own Public-Key Identity!
-# Check it out with "gpg --list-key"
 # ####################### Replace REC2 ####
-REC2="83C69FC16DB7083CEDE07E7C1762CA0701CD7B73"
+REC2="A15ADF624BDD19D9"
 # ####################### ####### #### ####
 # REC1: public key
 REC1="63FB12B215403B20"
