@@ -27,3 +27,9 @@ ZCZC W03 105 L03 GitHub related
 ZCZC W03 100 L02 ZOOM meetings related
 ZCZC W03 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W03 105 L99 Face-to-face Lecture
+ZCZC W04 15 L01 Scele related
+ZCZC W04 100 L99 Face-to-face Lectures related
+ZCZC W04 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend
+ZCZC W04 40 L05 Quiz related including studying
+ZCZC W04 30 L41 TXT/mylog.txt related.
+ZCZC W04 55 L03 GitHub related
