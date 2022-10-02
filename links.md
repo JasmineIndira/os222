@@ -32,4 +32,12 @@ permalink: LINKS/
 2. [Mounting and Unmounting File Systems](https://docs.oracle.com/cd/E19455-01/805-7228/6j6q7ueup/index.html)<br>
     This website gives explanations about what is mounnting and do we need it.
     
+## Week 04
+
+1. [Little Endian VS Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
+    This website explains how to store multibyte data-types by using little endian and big endian.
+    
+2. [Difference Between Logical and Physical Addressing](https://techdifferences.com/difference-between-logical-and-physical-address.html)
+    This website tells about the differences between logical and physical address in basic.
+    
     
