@@ -34,18 +34,24 @@ permalink: LINKS/
     
 ## Week 04
 
-1. [Little Endian VS Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
+1. [Little Endian VS Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
     This website explains how to store multibyte data-types by using little endian and big endian.
     
-2. [Difference Between Logical and Physical Addressing](https://techdifferences.com/difference-between-logical-and-physical-address.html)
+2. [Difference Between Logical and Physical Addressing](https://techdifferences.com/difference-between-logical-and-physical-address.html)<br>
     This website tells about the differences between logical and physical address in basic.
     
 ## Week 05
 
-1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
     This website gives me insight on how virtual memory works.
     
-2. [Global vs Local Frame Allocation](https://www.youtube.com/watch?v=INkGpEuO5XA&ab_channel=MarcoCortes)
+2. [Global vs Local Frame Allocation](https://www.youtube.com/watch?v=INkGpEuO5XA&ab_channel=MarcoCortes)<br>
     This video explains about the differences and silimarities between global and local frame allocation processes.
     
     
+## Week 06
+
+1. [Fork System Call in Linux](https://linuxhint.com/fork-system-call-linux/)<br>
+    This website explains about fork and how to use it.
+2. [Concurrency and Threads](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+    This website give explanation about Concurrency and Threads, why was it useful, example, comparison, etc.
