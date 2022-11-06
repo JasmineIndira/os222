@@ -49,3 +49,9 @@ permalink: LINKS/
     This video explains about the differences and silimarities between global and local frame allocation processes.
     
     
+## Week 06
+
+1. [Fork System Call in Linux](https://linuxhint.com/fork-system-call-linux/)
+    This website explains about fork and how to use it.
+2. [Concurrency and Threads](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+    This website give explanation about Concurrency and Threads, why was it useful, example, comparison, etc.
