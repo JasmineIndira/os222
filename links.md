@@ -40,4 +40,12 @@ permalink: LINKS/
 2. [Difference Between Logical and Physical Addressing](https://techdifferences.com/difference-between-logical-and-physical-address.html)
     This website tells about the differences between logical and physical address in basic.
     
+## Week 05
+
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+    This website gives me insight on how virtual memory works.
+    
+2. [Global vs Local Frame Allocation](https://www.youtube.com/watch?v=INkGpEuO5XA&ab_channel=MarcoCortes)
+    This video explains about the differences and silimarities between global and local frame allocation processes.
+    
     
