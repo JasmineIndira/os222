@@ -55,3 +55,9 @@ permalink: LINKS/
     This website explains about fork and how to use it.
 2. [Concurrency and Threads](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
     This website give explanation about Concurrency and Threads, why was it useful, example, comparison, etc.
+    
+## Week 07
+1. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)
+    This website tells about the concept of Process synchronization in an Operating System.
+2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+    This website explains about the base information of Deadlock in Operating System.
