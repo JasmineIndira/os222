@@ -61,3 +61,9 @@ permalink: LINKS/
     This website tells about the concept of Process synchronization in an Operating System.
 2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
     This website explains about the base information of Deadlock in Operating System.
+## Week 08
+
+1. [Bulid a Linux from Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+    This playlist show a detailed step by step on how to build a linux from scratch.
+2. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org)
+    This website tells all the detailed about linux from scratch.
